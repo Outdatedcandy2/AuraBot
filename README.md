@@ -1,1 +1,3 @@
 # AuraBot
+
+- info coming soon
